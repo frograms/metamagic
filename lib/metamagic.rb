@@ -8,6 +8,7 @@
   tags/custom_tag
   tags/open_graph_tag
   tags/twitter_tag
+  tags/facebook_tag
   renderer
   view_helper
 }.each { |f| require "metamagic/#{f}" }

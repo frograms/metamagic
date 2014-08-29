@@ -7,7 +7,8 @@ module Metamagic
       property:    PropertyTag,
       rel:         LinkTag,
       og:          OpenGraphTag,
-      twitter:     TwitterTag
+      twitter:     TwitterTag,
+      fb:          FacebookTag
     }
 
     DEFAULT_SEPARATOR = " - "
