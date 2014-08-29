@@ -1,5 +1,5 @@
 module Metamagic
-  class TwitterTag < PropertyTag
+  class TwitterTag < MetaTag
     def remove_prefix?
       false
     end
